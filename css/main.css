@@ -43,6 +43,7 @@ html {
   background-repeat: no-repeat;
   background-position: center bottom;
   color: #fff;
+  border-bottom: 3px solid #2d5a4d;
 }
 
 .banner-content {
